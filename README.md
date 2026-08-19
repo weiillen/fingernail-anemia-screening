@@ -137,11 +137,7 @@ The original project includes subject-level clinical/demographic CSV files and l
 
 The notebooks themselves are preserved as submitted; their code has not been refactored or rewritten for this repository.
 
-## Report
 
-The full project report is available at:
-
-[`docs/anemia_prediction_with_deep_learning.pdf`](docs/anemia_prediction_with_deep_learning.pdf)
 
 ## Limitations
 
