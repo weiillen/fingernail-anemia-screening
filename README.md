@@ -5,19 +5,7 @@ A proof-of-concept pipeline for **non-invasive anemia screening from fingernail 
 The project focuses on the full data path before and through model training: organizing the image set, segmenting the nail region, creating lossless ROI crops, handling dark images and reflection glare conservatively, preventing patient-level leakage, and evaluating lightweight deep-learning models for hemoglobin estimation and anemia classification.
 
 > **Scope:** research prototype / screening experiment only. This repository does **not** represent a clinical diagnostic system and is not intended to replace CBC testing.
-# Project Paper
 
-**Anemia Prediction with Deep Learning from Fingernail Images**
-
-The complete special-topic report is rendered directly below for immediate reading. 
-![Project report — page 1](docs/report-pages/page-1.png)
-
-![Project report — page 2](docs/report-pages/page-2.png)
-
-![Project report — page 3](docs/report-pages/page-3.png)
-
-![Project report — page 4](docs/report-pages/page-4.png)
-[Open the original PDF](docs/anemia_prediction_with_deep_learning.pdf)
 
 ## Pipeline
 
