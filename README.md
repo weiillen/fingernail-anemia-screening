@@ -10,7 +10,13 @@ The project focuses on the full data path before and through model training: org
 **Anemia Prediction with Deep Learning from Fingernail Images**
 
 The complete special-topic report is rendered directly below for immediate reading.
+![Project report — page 1](docs/report-pages/page-1.png)
 
+![Project report — page 2](docs/report-pages/page-2.png)
+
+![Project report — page 3](docs/report-pages/page-3.png)
+
+![Project report — page 4](docs/report-pages/page-4.png)
 [Open the original PDF](docs/anemia_prediction_with_deep_learning.pdf)
 
 ## Pipeline
