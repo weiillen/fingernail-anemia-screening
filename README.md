@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/31234578/README.md)
 # Fingernail Anemia Screening
 
 A proof-of-concept pipeline for **non-invasive anemia screening from fingernail images**, developed as an NTHU EECS special-topic project.
@@ -6,6 +7,47 @@ The project focuses on the full data path before and through model training: org
 
 > **Scope:** research prototype / screening experiment only. This repository does **not** represent a clinical diagnostic system and is not intended to replace CBC testing.
 
+# Project Paper
+
+**Anemia Prediction with Deep Learning from Fingernail Images**
+
+The complete special-topic report is rendered directly below for immediate reading.
+
+[Open the original PDF](docs/anemia_prediction_with_deep_learning.pdf)
+---
+![Project report — page 1](docs/report-pages/page-01.png)
+
+![Project report — page 2](docs/report-pages/page-02.png)
+
+![Project report — page 3](docs/report-pages/page-03.png)
+
+![Project report — page 4](docs/report-pages/page-04.png)
+
+![Project report — page 5](docs/report-pages/page-05.png)
+
+![Project report — page 6](docs/report-pages/page-06.png)
+
+![Project report — page 7](docs/report-pages/page-07.png)
+
+![Project report — page 8](docs/report-pages/page-08.png)
+
+![Project report — page 9](docs/report-pages/page-09.png)
+
+![Project report — page 10](docs/report-pages/page-10.png)
+
+![Project report — page 11](docs/report-pages/page-11.png)
+
+![Project report — page 12](docs/report-pages/page-12.png)
+
+![Project report — page 13](docs/report-pages/page-13.png)
+
+![Project report — page 14](docs/report-pages/page-14.png)
+
+![Project report — page 15](docs/report-pages/page-15.png)
+
+![Project report — page 16](docs/report-pages/page-16.png)
+
+---
 
 ## Pipeline
 
